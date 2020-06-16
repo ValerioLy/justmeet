@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577479281252",
+    "firebase_url": "https://justmeet-b4966.firebaseio.com",
+    "project_id": "justmeet-b4966",
+    "storage_bucket": "justmeet-b4966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577479281252:android:f3107ecd34da57b0ef2d71",
+        "android_client_info": {
+          "package_name": "com.example.justmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577479281252-oapjdf1n8uqkfq4m1hjk42qi38ev83k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5S_S4RiwOXXzsdoq9ywvtEoxDNUW1w-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577479281252-oapjdf1n8uqkfq4m1hjk42qi38ev83k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "577479281252-amv2frha7tkft081o0ivea53lrehg60i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.justmeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
